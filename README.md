@@ -3,7 +3,7 @@
 We provide results .... The data is available on ... via this link []
 ## Description
 
-<img width="900" height="500" alt="Image" src="" />
+<img width="900" height="500" alt="Image" src="https://github.com/Nour-BENAMEUR/BrainMIND-LLM/issues/1#issue-3713002308" />
 ## Data preparation
 
 ## 3D vision transformer

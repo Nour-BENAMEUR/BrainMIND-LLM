@@ -12,6 +12,6 @@ Execute the eva_vit_3d.py notebook to initialize and configure the 3D Vision Tra
 ## T5_generator model
 Run the t5_generator.py notebook to load the T5 model and prepare it for report generation.
 ## Training of the model 
-Launch the run_medblip_.py notebook to train the multimodal framework using the prepared data.
+Launch the run_codes_.py notebook to train the multimodal framework using the prepared data.
 ## Evaluation of the model
 Use the test_eval.py notebook to compute performance metrics and analyze model outputs.
